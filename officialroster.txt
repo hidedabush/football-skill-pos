@@ -1,0 +1,161 @@
+Receiver
+Drake London
+23
+6ft4
+195
+1000
+3
+Quarterback
+Tom Brady
+45
+6ft4
+225
+4633
+40
+Runningback
+Derrick Henry
+29
+6ft3
+247
+1500
+15
+Receiver
+Justin Jefferson
+24
+6ft1
+202
+1800
+8
+Quarterback
+Patrick Mahomes
+28
+6ft3
+230
+4900
+41
+Runningback
+Christian McCaffrey
+27
+5ft11
+205
+1150
+12
+Receiver
+Davante Adams
+31
+6ft1
+215
+1500
+10
+Quarterback
+Josh Allen
+27
+6ft5
+237
+4200
+35
+Runningback
+Nick Chubb
+28
+5ft11
+227
+1450
+10
+Receiver
+Stefon Diggs
+30
+6ft0
+191
+1400
+11
+Quarterback
+Joe Burrow
+27
+6ft4
+215
+4500
+38
+Runningback
+Saquon Barkley
+27
+6ft0
+232
+1300
+10
+Receiver
+CeeDee Lamb
+25
+6ft2
+200
+1250
+9
+Quarterback
+Justin Herbert
+26
+6ft6
+236
+4700
+39
+Runningback
+Aaron Jones
+29
+5ft9
+208
+1100
+8
+Receiver
+Tyreek Hill
+30
+5ft10
+185
+1600
+13
+Quarterback
+Lamar Jackson
+27
+6ft2
+230
+3500
+30
+Runningback
+Jonathan Taylor
+25
+5ft10
+225
+1300
+12
+Receiver
+A.J. Brown
+26
+6ft1
+226
+1500
+11
+Quarterback
+Jalen Hurts
+25
+6ft1
+223
+3900
+32
+Runningback
+Tony Pollard
+27
+6ft0
+209
+1000
+9
+Receiver
+Chris Olave
+23
+6ft0
+187
+1050
+6
+Quarterback
+Tua Tagovailoa
+26
+6ft1
+217
+3700
+29
